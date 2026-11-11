@@ -1,6 +1,6 @@
 # Workflow
 
-This repository (`boazgolan-wq/noteflow-proto`) is the source of truth for NoteFlow.
+This repository (`golan-projects/noteflow-proto`) is the source of truth for NoteFlow.
 
 ## How to work
 1. Edit in this working copy: `/workspace/piano-app` on the box.
